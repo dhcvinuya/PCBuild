@@ -1,5 +1,27 @@
 <resources>
     <string name="app_name">PC Build</string>
-    <string name="logo">Logo</string>
+    //SPLASHSCREEN
+    <string name="splash_screen_logo">Splash Screen Logo</string>
     <string name="start_to_build_your_own">Start to build your own</string>
+    //LOGIN
+    <string name="log_in_logo">Log In Logo</string>
+    <string name="hello_there_welcome_back">Hello there, Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="log_username">Username</string>
+    <string name="log_password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="log_button">Sign In</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+    //SIGN UP
+    <string name="sign_up_logo">Sign Up Logo</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sign_up_to_start_your_new_journey">SignUp to start your new Journey</string>
+    <string name="reg_full_name">Full Name</string>
+    <string name="reg_username">Username</string>
+    <string name="reg_email">Email Address</string>
+    <string name="reg_contact">Contact Number</string>
+    <string name="reg_password">Password</string>
+    <string name="reg_confirm_password">Confirm Password</string>
+    <string name="reg_button">Register</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign In</string>
 </resources>

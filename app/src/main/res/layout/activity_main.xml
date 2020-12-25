@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="#B6C1D7">
+    android:background="#fff">
 
     <ImageView
         android:id="@+id/imageView"
@@ -16,7 +16,7 @@
         android:layout_marginTop="280dp"
         android:layout_marginEnd="10dp"
         android:layout_marginRight="10dp"
-        android:contentDescription="@string/logo"
+        android:contentDescription="@string/splash_screen_logo"
         android:src="@drawable/logo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
